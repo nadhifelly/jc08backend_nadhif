@@ -1,14 +1,14 @@
 # Express Mysql
 
 # Deploy Heroku
-Email: alvinrochafi26@gmail.com
+Email: nadhifcoblon@gmail.com
 
 # Database on db4free
 
-Username : devuser2
+Username : nadhif
 
-Email : alvinrochafi26@gmail.com
+Email : nadhifcoblon@gmail.com
 
-Password : Mysql123
+Password : andini2205
 
-Database: rc8expressmysql
+Database: nadhifelly
